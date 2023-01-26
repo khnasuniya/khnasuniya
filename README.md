@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khnasuniya
+- 👋 Hi, I’m @khansuniya
 - 👀 I’m interested in learning while doing.
 - 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate on GitHub.
